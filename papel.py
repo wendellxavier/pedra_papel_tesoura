@@ -38,7 +38,7 @@ print("JOKENPO")
 print("1- pedra")
 print("2- papel")
 print("3- tesoura")
-print("para sair do jogo aperta letra "n" ")
+print("para sair do jogo aperta letra 'n' ")
 
 resultados = []
 jogadas = []
