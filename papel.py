@@ -60,8 +60,8 @@ while loop:
         for dado in jogada:
             print(dado, end=' ')
         print()
-    respota = input('Deseja continuar(s/n): ')
-    if respota.lower() != "s":
+    resposta = input('Deseja continuar(s/n): ')
+    if resposta.lower() != "s":
         loop = False
 
 print("Número de vitórias do jogador 1: {}".format(resultados[0]))
